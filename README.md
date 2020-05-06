@@ -18,6 +18,8 @@ python secondary_houses.py
 
 ## data
 
+data is from 2017-03-23 to 20200506.
+
 ```python
 >>> import pandas as pd
 >>> df = pd.read_csv('secondary_houses.csv') 
